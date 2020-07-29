@@ -1,0 +1,151 @@
+/********************************tag******************************/
+body{
+    margin-top: 0;
+    text-align: center;
+    font-family: 'Sora', sans-serif;
+}
+
+h1{
+    color: #852fb8;
+    margin: 20px auto 0 auto;
+    font-family: 'Dancing Script', cursive;   
+    font-size: 5rem;
+}
+
+h2{
+    color: #852fb8;
+    font-family: 'Prata', serif;
+    margin-top: 0;
+}
+
+h3{
+    color: #692192;
+    font-family: 'Prata', serif;
+}
+
+a{
+    color: #6d22cf;
+    margin: auto 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: aliceblue;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 6px;
+    margin: 50px auto;
+    width: 20%;
+    color: rgb(155, 160, 165);
+}
+
+p{ 
+    line-height: 2 ;
+}
+/*******************************class*****************************/
+.top-container{
+    background-color: #c6cfff;
+    padding-top: 80px;
+}
+
+.middle-container{
+    background-color: #f3f8ff;
+}
+
+.bottom-container{
+    background-color: #c6cfff;
+    padding: 20px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 25rem;
+    top: 2rem;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 25rem;
+    bottom: 22rem;
+}
+
+.last-info{
+    color: white;
+    font-size: 0.75em;
+    margin: auto;
+}
+
+
+.skill-row{
+    width: 60%;
+    margin: 50px auto 120px auto;
+    text-align: left;
+    display: block;
+}
+
+.program{
+    width: 10rem;  
+    float: left;
+    margin-right: 30px;  
+}
+
+.learn{
+    width: 10rem;  
+    float: right;
+    margin-left: 30px; 
+}
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+.yo{
+    margin-top: 30px ;
+    color:  #f3f8ff;
+}
+
+.BUTTON_HRV {
+    height: 2rem;
+    width: 10rem;
+    background-color: #8e66fa;
+    background-image: -webkit-linear-gradient(top, #8e66fa, #582ad6);
+    background-image: -moz-linear-gradient(top, #8e66fa, #582ad6);
+    background-image: -ms-linear-gradient(top,  #8e66fa, #582ad6);
+    background-image: -o-linear-gradient(top,  #8e66fa, #582ad6);
+    background-image: linear-gradient(to bottom,  #8e66fa, #582ad6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-weight: 100;
+    box-shadow: 1px 1px 20px 0px #000000;
+    -moz-box-shadow: 1px 1px 20px 0px #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #6840d6 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+    
+.BUTTON_HRV:hover {
+    border: solid #6840d6 1px;
+    background: #582ad6;
+    background-image: -webkit-linear-gradient(top, #582ad6,  #8e66fa);
+    background-image: -moz-linear-gradient(top, #582ad6,  #8e66fa);
+    background-image: -ms-linear-gradient(top, #582ad6,  #8e66fa);
+    background-image: -o-linear-gradient(top, #582ad6,  #8e66fa);
+    background-image: linear-gradient(to bottom, #582ad6,  #8e66fa);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+}
+
+
