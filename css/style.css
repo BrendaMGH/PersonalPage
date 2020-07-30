@@ -67,12 +67,13 @@ p{
 
 .bottom-cloud{
     position: relative;
-    left: 5rem;
-    bottom: 20rem;
+    right: 12rem;
+    top: 2rem;
 }
 
 .mountain{
-    width: fit-content;
+    display: block;
+    margin: auto ;
 }
 
 .last-info{
