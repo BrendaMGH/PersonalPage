@@ -61,15 +61,18 @@ p{
 }
 
 .top-cloud{
-    position: absolute;
-    right: 25rem;
-    top: 2rem;
+    position: relative;
+    left: 10rem;
 }
 
 .bottom-cloud{
-    position: absolute;
-    left: 25rem;
-    bottom: 22rem;
+    position: relative;
+    left: 5rem;
+    bottom: 20rem;
+}
+
+.mountain{
+    width: fit-content;
 }
 
 .last-info{
