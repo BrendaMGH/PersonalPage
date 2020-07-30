@@ -16,6 +16,7 @@ h2{
     color: #852fb8;
     font-family: 'Prata', serif;
     margin-top: 0;
+    font-family: 3rem;
 }
 
 h3{
@@ -67,13 +68,12 @@ p{
 
 .bottom-cloud{
     position: relative;
-    right: 12rem;
-    top: 2rem;
+    left: 8rem;
+    bottom: 18rem;
 }
 
 .mountain{
-    display: block;
-    margin: auto ;
+    width: 38rem;
 }
 
 .last-info{
